@@ -1,0 +1,41 @@
+html {
+    letter-spacing: .07em;
+}
+header {
+    width: 100%;
+    overflow: hidden;
+    border-bottom: dotted black 5px;
+}
+h1 {
+    position: absolute;
+    margin-left: 4em;
+    margin-top: 1.3em;
+
+}
+ul {
+    margin-right: 1em;
+}
+ul li {
+    float: right;
+    border: solid black;
+    padding: 2em 2em;
+    list-style: none;
+    margin-bottom: 1.25em;
+    margin-left: 1em;
+    text-align: center;
+    width: auto;
+    display: inline-block;
+    border-radius: 100%;
+}
+#picofjack {
+    margin-top: 1em;
+    float: left;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+p {
+    
+}
+#aboutme h2 {
+    margin-top: 1em;
+}
